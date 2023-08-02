@@ -1,0 +1,10 @@
+# Host addresses
+127.0.0.1  localhost
+127.0.1.1  server
+192.168.1.200   pi.hole server
+::1        localhost ip6-localhost ip6-loopback
+ff02::1    ip6-allnodes
+ff02::2    ip6-allrouters
+2606:4700:20::681a:967 re-library.com
+2600:3c02::f03c:91ff:fee2:5b0f ncode.syosetsu.com
+
